@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-
-**Yummy-Yums/Yummy-Yums** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm Elias , a software engineer
 
 - 🔭 I’m currently working on Open Source Projects 
 - 🌱 I’m currently learning Scala, Reactive Microservices, Domain-Driven Design, Akka, ZIO, Cats
