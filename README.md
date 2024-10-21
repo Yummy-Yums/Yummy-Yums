@@ -7,3 +7,4 @@ I'm Elias (Saile is just an anagram), a software engineer
 - 👯 I’m looking to collaborate on OSS Scala/TS/Python projects
 - 🤔 I’m looking for help with Scalable & Distributed Systems
 - 📫 How to reach me: email in bio
+- Link to [CV](https://docs.google.com/document/d/e/2PACX-1vSzbi_dXhUCDyAY5IR_L3sHe_EfbdfLMUcL8zEkwrtZFWDUByIo1e2JHHiz02kk28509Kp-JEbBLxom/pub)
