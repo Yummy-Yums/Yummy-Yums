@@ -7,7 +7,8 @@
 **I'm actively looking for software engineering roles in:**
 - **Rust** 🦀 - Currently learning and passionate about it's application
 - **Python** 🐍 - Experienced in backend development and web applications
-- **Scala** ⚡ - Experienced in functional programming and distributed systems, domain systems as well 
+- **Scala** ⚡ - Experienced in functional programming and distributed systems, domain systems as well
+  
 ---
 
 ## 👨‍💻 About Me
@@ -77,15 +78,15 @@ A robust data processing tool for converting CSV files to JSON format:
 - **Error handling** and logging mechanisms & **CLI interface** for ease of use
 
 *Technologies: Python, Data Processing, CLI Tools, JSON/CSV*
+
 ---
 
 ## 🌱 What I'm Up To
 
 - 🔭 **Open Source:** Contributing to OSS projects and looking to collaborate on **Scala/TypeScript/Python/Rust** projects
-- 🦀 **Learning:** Diving deep into Rust for systems programming and performance-critical applications
-- 🐍 **Exploring:** Advanced Python patterns with frameworks like Reflex for full-stack development
+- 🦀 **Learning:** Diving deep into Rust for various use cases
 - ⚡ **Building:** Scala applications with functional programming and effect systems (ZIO, Cats)
-- 🤔 **Growing:** Expanding knowledge in **Scalable & Distributed Systems** - always eager to learn from experienced practitioners
+- 🤔 **Growing:** Expanding knowledge in **Scalable & Distributed Systems** - always eager to learn from experienced developers
 
 ---
 
