@@ -92,28 +92,6 @@ A robust data processing tool for converting CSV files to JSON format:
 
 ---
 
-## 🎓 Professional Certifications & Training
-
-### Akka & Reactive Systems
-- **[Akka Basics Scala](https://akkademy.akka.io/share/v1/gamification/assigned_badge/4ea1e179-9071-4aa5-bdf0-9aafeb78d94b/shared?lang=en&t=1726000300944)** - Actor behaviors, communication, state management, and child actors
-- **[Actor Fundamentals](https://akkademy.akka.io/share/gamification/badges/external/0c426f73-3160-4e52-ae1b-53b794f28803?lang=en)** - Core concepts of the actor model and Akka framework
-- **[Akka For Scala Professional](https://akkademy.akka.io/share/v1/gamification/assigned_badge/95b11c88-9c3d-4e86-a422-b283b2d33ae7/shared?lang=en&t=1726000323264)** - Advanced Scala patterns with Akka
-- **[Akka Streams For Scala Professional]([https://akkademy.akka.io](https://akkademy.akka.io/share/gamification/badges/external/950c596c-b989-4454-a015-4eda193bf3f8?lang=en))** - Stream processing and reactive streams
-- **[Akka Cluster Fundamentals](https://akkademy.akka.io/share/gamification/badges/external/94e0ac77-1e90-4e0d-8e64-1333e18c81f1?lang=en)** - Distributed actor systems and clustering
-
-### System Architecture & Design
-- **[Introduction to Reactive Systems](https://akkademy.akka.io/share/gamification/badges/external/5ec84bf9-308a-427e-95f1-fc0e2a2a9258?lang=en)** - Building responsive, resilient systems
-- **[Domain Driven Design](https://akkademy.akka.io/share/gamification/badges/external/05245379-3f12-4967-bf8b-722a33f38d43?lang=en)** - Strategic design and tactical patterns
-- **[Reactive Microservices](https://akkademy.akka.io/share/gamification/badges/external/2456bac5-d1f7-4aeb-b943-8cb094e923d3?lang=en)** - Microservice architecture with reactive principles
-- **[Reactive Architecture: Building Scalable Systems](https://akkademy.akka.io/share/gamification/badges/external/6fa00fc6-fedf-4dbe-9647-812dc5cc6369?lang=en)** - Certified scalable system design
-- **[Distributed Messaging Patterns](https://akkademy.akka.io/share/gamification/badges/external/13673141-95f4-4133-99f1-3667b6b4ae12?lang=en)** - Event-driven communication patterns
-
-### Advanced Reactive Patterns
-- **[Reactive Architecture: CQRS and Event Sourcing](https://akkademy.akka.io/share/gamification/badges/external/ce31cdbd-ac19-4c9b-9bb3-6d824606232d?lang=en)** - Command Query Responsibility Segregation
-- **[Data Engineering - Data Principles](https://akkademy.akka.io/share/gamification/badges/external/85be81e2-6d95-48d7-bece-fe0347be569f?lang=en)** - Modern data processing and pipeline design
-
----
-
 ## 🤝 Let's Connect
 
 - 📫 **Email:** Check my bio for contact details
