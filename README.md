@@ -30,10 +30,8 @@ I'm a software engineer with a passion for functional programming, reactive syst
 **A docker-like clone tutorial project**
 
 A comprehensive implementation exploring containerization concepts through a Docker-like system built in Scala. This project demonstrates:
-- **Systems programming** with functional paradigms
 - **Container orchestration** concepts and implementation
 - **Scala's type system** for robust system design
-- **Infrastructure as code** patterns
 
 *Technologies: Scala, Docker, Containerization, Systems Programming*
 
@@ -43,8 +41,6 @@ A comprehensive implementation exploring containerization concepts through a Doc
 A modern URL shortening service built with TypeScript, showcasing:
 - **RESTful API design** and implementation
 - **Database integration** and URL mapping
-- **TypeScript best practices** for type-safe development
-- **Web service architecture** patterns
 
 *Technologies: TypeScript, REST API, Database Management*
 
@@ -52,10 +48,8 @@ A modern URL shortening service built with TypeScript, showcasing:
 **Custom load balancer implementation**
 
 A production-ready load balancer built from scratch in Scala, featuring:
-- **Distributed systems** architecture
-- **Traffic distribution algorithms** (round-robin, weighted, etc.)
+- **Traffic distribution algorithms** (round-robin)
 - **Health check mechanisms** for upstream services
-- **Reactive programming** with Akka/ZIO patterns
 
 *Technologies: Scala, Distributed Systems, Network Programming, Akka*
 
@@ -65,8 +59,6 @@ A production-ready load balancer built from scratch in Scala, featuring:
 Following the "Zero To Production In Rust" book to build a production-ready web service:
 - **Rust web development** with actix-web
 - **Production deployment** patterns and practices
-- **Testing strategies** and CI/CD implementation
-- **Performance optimization** and monitoring
 
 *Technologies: Rust, Actix-web, Production Systems, Testing*
 
@@ -74,10 +66,8 @@ Following the "Zero To Production In Rust" book to build a production-ready web 
 **E-commerce shopping cart system**
 
 A scalable e-commerce backend system built with functional programming principles:
-- **Domain-driven design** implementation
-- **Event sourcing** and CQRS patterns
+- **Domain-driven design** implementation & **Event sourcing** and CQRS patterns
 - **Functional error handling** with cats-effect
-- **Microservices architecture** ready
 
 *Technologies: Scala, DDD, Event Sourcing, Cats Effect, Microservices*
 
@@ -85,10 +75,8 @@ A scalable e-commerce backend system built with functional programming principle
 **Data transformation utility**
 
 A robust data processing tool for converting CSV files to JSON format:
-- **Data validation** and schema enforcement
-- **Batch processing** for large datasets
-- **Error handling** and logging mechanisms
-- **CLI interface** for ease of use
+- **Data validation** 
+- **Error handling** and logging mechanisms & **CLI interface** for ease of use
 
 *Technologies: Python, Data Processing, CLI Tools, JSON/CSV*
 
@@ -124,8 +112,6 @@ A robust data processing tool for converting CSV files to JSON format:
 - **[Reactive Architecture: CQRS and Event Sourcing](https://akkademy.akka.io/share/gamification/badges/external/ce31cdbd-ac19-4c9b-9bb3-6d824606232d?lang=en)** - Command Query Responsibility Segregation
 - **[Data Engineering - Data Principles](https://akkademy.akka.io/share/gamification/badges/external/85be81e2-6d95-48d7-bece-fe0347be569f?lang=en)** - Modern data processing and pipeline design
 
-*These certifications demonstrate deep expertise in building scalable, distributed systems using functional programming principles and reactive architectures.*
-
 ---
 
 ## 🤝 Let's Connect
@@ -152,8 +138,7 @@ I'm passionate about writing clean, maintainable code and building systems that 
 - **Backend Engineering** roles with Scala, Python, or Rust
 - **Distributed Systems** and microservices architecture (see my load-balancer project)
 - **Functional Programming** and effect systems (ZIO, Cats implementations)
-- **Systems Programming** with containerization and infrastructure
 - **Data Engineering** and transformation pipelines
 - **Open Source** contribution opportunities
 
-*If you're working on interesting problems in Rust, Python, or Scala, or need someone experienced in distributed systems and functional programming, I'd love to hear from you!*
+*If you're working on interesting problems in Rust, Python, or Scala, or need someone with working knowledge in distributed systems and functional programming, please do reach out!*
