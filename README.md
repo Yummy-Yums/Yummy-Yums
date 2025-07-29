@@ -8,7 +8,6 @@
 - **Rust** 🦀 - Currently learning and passionate about it's application
 - **Python** 🐍 - Experienced in backend development and web applications
 - **Scala** ⚡ - Experienced in functional programming and distributed systems, domain systems as well 
-
 ---
 
 ## 👨‍💻 About Me
@@ -21,7 +20,6 @@ I'm a software engineer with a passion for functional programming, reactive syst
 - **Familiar with:** TypeScript
 - **Architectures:** Reactive Architecture, Domain-Driven Design, Monolith, SOA
 - **Frameworks & Libraries:** Akka, ZIO, Cats Effect, FastApi, 
-
 ---
 
 ## 🚀 Pinned Projects & Repositories
@@ -79,7 +77,6 @@ A robust data processing tool for converting CSV files to JSON format:
 - **Error handling** and logging mechanisms & **CLI interface** for ease of use
 
 *Technologies: Python, Data Processing, CLI Tools, JSON/CSV*
-
 ---
 
 ## 🌱 What I'm Up To
@@ -104,8 +101,6 @@ A robust data processing tool for converting CSV files to JSON format:
 ## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yummy-Yums&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yummy-Yums&layout=compact&theme=default&hide_border=true)
 
 ---
 
