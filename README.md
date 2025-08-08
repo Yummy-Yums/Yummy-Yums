@@ -8,6 +8,7 @@
 - **Rust** 🦀 - Currently learning and passionate about it's application
 - **Python** 🐍 - Experienced in backend development and web applications
 - **Scala** ⚡ - Experienced in functional programming and distributed systems, domain systems as well
+- **Typescript** - I'm open to TS projects which overlap with the above 3. 
   
 ---
 
