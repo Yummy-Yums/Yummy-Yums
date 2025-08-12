@@ -21,7 +21,7 @@ I'm a software engineer with a passion for functional programming, reactive syst
 - **Learning:** Rust (actively developing projects)
 - **Familiar with:** TypeScript
 - **Architectures:** Reactive Architecture, Domain-Driven Design, Monolith, SOA
-- **Frameworks & Libraries:** Akka, ZIO, Cats Effect, FastApi, 
+- **Frameworks & Libraries:** Akka, ZIO, Cats Effect, FastAPI, 
 ---
 
 ## 🚀 Pinned Projects & Repositories
