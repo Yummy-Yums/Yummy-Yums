@@ -9,7 +9,7 @@
 - **Python** 🐍 - Experienced in backend development and web applications
 - **Scala** ⚡ - Experienced in functional programming and distributed systems, domain systems as well
 - **Typescript** - I'm open to TS projects which overlap with the above 3.
-- - 📄 **Resume:** [View my CV](https://flowcv.com/resume/63uu09bc5s8c)
+- 📄 **Resume:** [View my CV](https://flowcv.com/resume/63uu09bc5s8c)
   
 ---
 
