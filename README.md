@@ -5,9 +5,9 @@
 ## 🎯 Currently Seeking Opportunities
 
 **I'm actively looking for software engineering roles in:**
-- **Rust** 🦀 - Currently learning and passionate about it's application
-- **Python** 🐍 - Experienced in backend development and web applications
 - **Scala** ⚡ - Experienced in functional programming and distributed systems, domain systems as well
+- **Python** 🐍 - Working knowledge in backend development and web applications
+- **Rust** 🦀 - Currently learning and passionate about it's application
 - **Typescript** - I'm open to TS projects which overlap with the above 3.
 - 📄 **Resume:** [View my CV](https://flowcv.com/resume/63uu09bc5s8c)
   
