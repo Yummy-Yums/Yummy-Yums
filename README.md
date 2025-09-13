@@ -52,7 +52,7 @@ A production-ready load balancer built from scratch in Scala, featuring:
 - **Traffic distribution algorithms** (round-robin)
 - **Health check mechanisms** for upstream services
 
-*Technologies: Scala, Distributed Systems, Network Programming, Akka*
+*Technologies: Scala, Distributed Systems, ZIO, ZIO-Http*
 
 ### [📖 zero2prod](https://github.com/Yummy-Yums/zero2prod) - Rust
 **Zero to production book implementation**
