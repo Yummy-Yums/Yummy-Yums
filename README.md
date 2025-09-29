@@ -2,7 +2,7 @@
 
 *Saile is just an anagram of my name*
 
-## 🎯 Currently Seeking Opportunities
+## 🎯 Currently Seeking Opportunities (Remote/OSS also welcome)
 
 **I'm actively looking for software engineering roles in:**
 - **Scala** ⚡ - Experienced in functional programming and distributed systems, domain systems as well
