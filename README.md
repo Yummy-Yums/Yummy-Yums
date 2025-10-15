@@ -22,7 +22,14 @@ I'm a software engineer with a passion for functional programming, reactive syst
 - **Learning:** Rust (actively developing projects)
 - **Familiar with:** TypeScript, Go
 - **Architectures:** Reactive Architecture, Domain-Driven Design, Monolith, SOA
-- **Frameworks & Libraries:** Akka, ZIO, Cats Effect, FastAPI, 
+- **Frameworks & Libraries:** Akka, ZIO, Cats Effect, FastAPI,
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yummy-Yums&show_icons=true&theme=default&hide_border=true)
+
 ---
 
 ## 🚀 Pinned Projects & Repositories
@@ -98,11 +105,6 @@ A robust data processing tool for converting CSV files to JSON format:
 - 💼 **Open to:** Full-time positions, contract work, and exciting collaborations, OSS contributions
 - 🌍 **Location:** Accra, Ghana- West-Africa but Available for remote work and relocation
 
----
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yummy-Yums&show_icons=true&theme=default&hide_border=true)
 
 ---
 
