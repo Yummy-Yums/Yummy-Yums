@@ -20,9 +20,9 @@ I'm a software engineer with a passion for functional programming, reactive syst
 **Tech Stack & Experience:**
 - **Primary Languages:** Scala, Python
 - **Learning:** Rust (actively developing projects)
-- **Familiar with:** TypeScript, Go
+- **Familiar with:** TypeScript, Go, Elixir, Ocaml, Unison
 - **Architectures:** Reactive Architecture, Domain-Driven Design, Monolith, SOA
-- **Frameworks & Libraries:** Akka, ZIO, Cats Effect, FastAPI,
+- **Frameworks & Libraries:** Akka, ZIO, Cats Effect, FastAPI, Axum, Actix-Web, Bun, Deno
 
 ---
 
