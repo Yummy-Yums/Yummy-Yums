@@ -9,7 +9,7 @@
 - **Python** 🐍 - Working knowledge in backend development and web applications
 - **Rust** 🦀 - Currently learning and passionate about it's application
 - **Typescript** - I'm open to TS projects which overlap with the above 3.
-- 📄 **Resume:** [View my CV](https://drive.google.com/file/d/1FokJ6IAkJvPtv49ZhJMGgUvMZCzzfrh7/view?usp=drive_link)
+- 📄 **Resume:** [View my CV](https://drive.google.com/file/d/1JVrkSqLceYAz_yf-AK5aiu74CcimyCMH/view?usp=drive_link)
   
 ---
 
