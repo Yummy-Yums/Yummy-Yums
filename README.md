@@ -7,7 +7,7 @@
 **I'm actively looking for software engineering roles in:**
 - **Scala** ⚡ - Experienced in functional programming and distributed systems, domain systems as well
 - **Python** 🐍 - Working knowledge in backend development and web applications
-- **Rust** 🦀 - Currently learning and passionate about it's application
+- **Rust** 🦀 - Proficient in Rust Systems Programming, Web Services, CLI, Devtooling etc
 - **Typescript** - I'm open to TS projects which overlap with the above 3.
 - 📄 **Resume:** [View my CV](https://drive.google.com/file/d/1JVrkSqLceYAz_yf-AK5aiu74CcimyCMH/view?usp=drive_link)
   
@@ -88,21 +88,6 @@ A robust data processing tool for converting CSV files to JSON format:
 *Technologies: Python, Data Processing, CLI Tools, JSON/CSV*
 
 ---
-
-## 🌱 What I'm Up To
-
-- 🔭 **Open Source:** Contributing to OSS projects and looking to collaborate on **Scala/TypeScript/Python/Rust** projects
-- 🦀 **Learning:** Diving deep into Rust for various use cases
-- ⚡ **Building:** Scala applications with functional programming and effect systems (ZIO, Cats)
-- 🤔 **Growing:** Expanding knowledge in **Scalable & Distributed Systems** - always eager to learn from experienced developers
-
----
-
-## 🤝 Let's Connect
-
-- 📫 **Email:** Check my bio for contact details
-- 💼 **Open to:** Full-time positions, contract work, and exciting collaborations, OSS contributions
-- 🌍 **Location:** Accra, Ghana- West-Africa but Available for remote work and relocation
 
 
 ---
