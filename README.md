@@ -10,7 +10,8 @@
 - **Rust** 🦀 - Proficient in Rust Systems Programming, Web Services, CLI, Devtooling etc
 - **Typescript** - I'm open to TS projects which overlap with the above 3.
 - 📄 **Resume:** [View my CV](https://drive.google.com/file/d/1JVrkSqLceYAz_yf-AK5aiu74CcimyCMH/view?usp=drive_link)
-  
+
+<br>
 
 ## 👨‍💻 About Me
 
@@ -22,13 +23,13 @@ I'm a software engineer with a passion for functional programming, reactive syst
 - **Architectures:** Reactive Architecture, Domain-Driven Design, Monolith, SOA
 - **Frameworks & Libraries:** Akka, ZIO, Cats Effect, FastAPI, Axum, Actix-Web, Bun, Deno
 
-
+<br>
 
 ## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yummy-Yums&show_icons=true&theme=default&hide_border=true)
 
----
+<br>
 
 ## 🚀 Pinned Projects & Repositories
 
@@ -86,7 +87,7 @@ A robust data processing tool for converting CSV files to JSON format:
 
 *Technologies: Python, Data Processing, CLI Tools, JSON/CSV*
 
----
+<br>
 
 
 ## 🎯 What I'm Looking For
