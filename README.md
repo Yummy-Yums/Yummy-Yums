@@ -9,7 +9,7 @@
 - **Python** 🐍 - Working knowledge in backend development and web applications
 - **Rust** 🦀 - Proficient in Rust Systems Programming, Web Services, CLI, Devtooling etc
 - **Typescript** - I'm open to TS projects which overlap with the above 3.
-- 📄 **Resume:** [View my CV](https://drive.google.com/file/d/1JVrkSqLceYAz_yf-AK5aiu74CcimyCMH/view?usp=drive_link)
+- 📄 **Resume:** [View my CV](https://drive.google.com/file/d/1-6vJH1HzLUSIZ1Ck4nv5EbJXaUSRkHcE/view?usp=drive_link)
 
 <br>
 
